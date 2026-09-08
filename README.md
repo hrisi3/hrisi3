@@ -18,4 +18,4 @@ I'm a Computer Science student at Sofia University with an interest in software 
 
 ### 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/hristina-zehireva-464175185/)
-- Email: hzehireva@gmail.com
+- Email: hristinazeh@gmail.com
